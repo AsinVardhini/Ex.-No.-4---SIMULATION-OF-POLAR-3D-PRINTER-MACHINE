@@ -75,8 +75,9 @@ Filament :
 ![Screenshot 2023-05-20 210159](https://github.com/AsinVardhini/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119417735/5685d931-79f1-4e63-bc3c-68d2c092871e)
 
 
-### Name:
-### Register Number:
+### Name:Asin Vardhini R
+
+### Register Number: 212222100007
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
