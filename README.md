@@ -29,7 +29,7 @@
 ![Screenshot 2023-05-20 210119](https://github.com/AsinVardhini/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119417735/696f9302-fbac-4d8c-b252-93167b4802f2)
 
 ### Assembly of Polar 3D Printer
-```
+
 Y-Axis Base :
 In a Polar 3D printer, the Y-axis base is a circular platform known as the rotary build platform. This platform 
 rotates about a central axis, and the print head moves in the X and Z directions to create the object being printed.
@@ -84,7 +84,7 @@ Filament :
  Filament is a long, thin strand or thread of material that is fed into the printer's extruder, melted, and then extruded to 
  build up the layers of the printed object.
 
-```
+
 ### Playing with Axes
 
 ![Screenshot 2023-05-20 210159](https://github.com/AsinVardhini/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119417735/5685d931-79f1-4e63-bc3c-68d2c092871e)
